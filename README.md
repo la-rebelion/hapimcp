@@ -1,5 +1,3 @@
-# Beta Waiting List is Open
-Waiting list registration for [chatMCP](https://chat.mcp.com.ai) 🤖
 
 ## Demos
 
