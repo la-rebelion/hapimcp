@@ -1,5 +1,7 @@
 # HAPI MCP – Headless API for Model Context Protocol
 
+[![MCP Queen operational grade](https://mcpqueen.com/badge/ai.com.mcp/contabo.svg)](https://mcpqueen.com/s/ai.com.mcp/contabo)
+
 **Stop rewriting systems for AI. Instantly turn your APIs into MCP servers.**
 
 HAPI MCP lifts your OpenAPI catalog into MCP tools automatically, keeping design (OAS/Arazzo) and runtime (agents/LLMs) cleanly separated. Your existing APIs become AI-ready tools—no new business logic, no sidecar servers, no rework.
